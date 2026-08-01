@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+spark_env/
+
+# Spark output
+spark-warehouse/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
