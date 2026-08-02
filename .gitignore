@@ -17,3 +17,7 @@ spark-warehouse/
 
 # OS files
 .DS_Store
+
+models/
+outputs/
+data/
