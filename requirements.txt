@@ -2,4 +2,4 @@ pyspark==4.1.1
 pandas>=2.0.0
 matplotlib>=3.7.0
 jupyterlab>=4.0.0
-ipykernel>=6.25.0
+ipykernel>=6.25.0gi
